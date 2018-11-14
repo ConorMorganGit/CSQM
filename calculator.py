@@ -4,7 +4,9 @@ Spyder Editor
 
 This is a temporary script file.
 """
-print ("Welcome !!")
+print ("\n\n\tWelcome To The Calculator Program!!")
+print("\t===================================")
+print("\t***********************************")
 
 #function to add two numbers
 def add(first_num,second_num):
