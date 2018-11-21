@@ -5,6 +5,7 @@ Spyder Editor
 This is a temporary script file.
 """
 print ("\n\n\tWelcome To The Calculator Program!!")
+print ("\tThis repo is just for to test the Jenkins CI.")
 print("\t===================================")
 print("\t***********************************")
 
@@ -52,3 +53,6 @@ while True :
 		print ("")
 	else:
 		print ("Please Enter a Valid Input !!")
+        
+print("Here am tryint to break the program to test how Jenkins receat.")
+main 
