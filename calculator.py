@@ -41,7 +41,7 @@ while True :
 		add(int(input("Enter number 1 : ")),int(input("Enter number 2 : ")))
 	elif user_input == '-':
 		print ("To calculate (number 1 - number 2) :")
-		sub(int(input("Enter number 1 : ")), int(input("Enter number 2 : ")))
+		subint(input("Enter number 1 : ")), int(input("Enter number 2 : ")))
 	elif user_input == '*':
 		print ("To calculate (number 1 * number 2) :")
 		mul(int(input("Enter number 1 : ")), int(input("Enter number 2 : ")))
@@ -51,7 +51,7 @@ while True :
 	elif user_input == 'q'
 		break
 		print ("")
-	else:
+	lse:
 		print ("Please Enter a Valid Input !!")
         
 print("Here am tryint to break the program to test how Jenkins receat.")
